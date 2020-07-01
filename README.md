@@ -104,6 +104,10 @@ print(from_bits(result))
 
 POC example:
 
-The Result bits circle after capturing the video, splitting it to frames and and detecting the circles:
+The Result bits circle after detecting the circles:
 
 ![Cirlces](https://raw.githubusercontent.com/TalSaadi/TV-Air-Gap/master/circles.JPG)
+
+Detecting the bits and decoding the message:
+
+![Bits](https://raw.githubusercontent.com/TalSaadi/TV-Air-Gap/master/bits.JPG)
