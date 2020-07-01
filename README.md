@@ -104,6 +104,12 @@ print(from_bits(result))
 
 POC example:
 
+Sending the message "Hey".
+
+The leaking process:
+
+![Leak](https://github.com/TalSaadi/TV-Air-Gap/blob/master/leak.gif)
+
 The Result bits circle after detecting the circles:
 
 ![Cirlces](https://raw.githubusercontent.com/TalSaadi/TV-Air-Gap/master/circles.JPG)
@@ -111,3 +117,5 @@ The Result bits circle after detecting the circles:
 Detecting the bits and decoding the message:
 
 ![Bits](https://raw.githubusercontent.com/TalSaadi/TV-Air-Gap/master/bits.JPG)
+
+The speed of this process is 0.5b\s so I hope you need your data in at least few years...
